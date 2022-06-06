@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Nanum+Gothic&family=Roboto:wght@100;300;400&display=swap');
+
+/*Estilo del Header*/
+header {text-align: center;
+        color:#CB864F;
+}
+h1 {color:black}
+.fotoAna {height: 170px;
+}
+/*Estilo del Body*/
+
+body {background-image: url(../img/fondoCV.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    font-family: 'Nanum Gothic', sans-serif;
+}
+span {font-weight: 700;
+}
+section {background-color: #E4DAC1;
+}
+/*Estilo del Main*/
+h3 {background-color: #E0C3A1;
+    color: #F9FEFA;
+}
+.textoCursiva {font-style: italic;}
+/*Estilo del Footer*/
+footer{color: #F9FEFA;
+    background-color: #CB864F;
+    text-align: center;
+}
+i {color:#F9FEFA;
+    font-size: 27px;
+}
+
+
